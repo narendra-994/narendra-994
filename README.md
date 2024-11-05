@@ -1,4 +1,4 @@
-![SAI NARENDRA](/sai.png)
+
 
 - 👋 Hi, I’m @narendra-994
 - 👀 I’m interested in Full Stack Development.
